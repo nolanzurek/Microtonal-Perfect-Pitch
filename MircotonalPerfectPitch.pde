@@ -41,7 +41,7 @@ color b = color(100, 218, 250);
 
 //function that plays the tone
 
-//hopefully replace the shitty wave synthesizer with piano samples but I'm too lazy
+//TODO: replace the synth with piano samples
 
 void playTone () {
 
